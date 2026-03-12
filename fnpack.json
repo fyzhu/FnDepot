@@ -1,6 +1,6 @@
 {
-  "panso": {
-    "display_name": "PanSo",
+  "pansou": {
+    "display_name": "PanSou",
     "desc": "PanSou是一个高性能的网盘资源搜索API服务，支持TG搜索和自定义插件搜索。系统设计以性能和可扩展性为核心，支持并发搜索、结果智能排序和网盘类型分类。",
     "labels": "工具,效率",
     "version": "1.0.0",
@@ -10,7 +10,7 @@
     "isdocker": "true",
     "bug_report_url": "https://github.com/fyzhu/FnDepot/issues",
     "install_type": "系统空间",
-    "size": "28.9",
+    "size": "83.46",
     "changelog": "注意：更新后请到官方应用商店配置应用端口号。如提示无法获取更新信息则需要到官方应用商店写在官方来源版本重新安装。 \n更新内容：\n支持自定义端口号，增强ws鉴权，修复已知bug（无论如何增强鉴权，不建议将端口号暴露到公网）"
   }
 }

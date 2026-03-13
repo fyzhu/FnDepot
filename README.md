@@ -1,1 +1,1 @@
-1. panso
+1. pansou

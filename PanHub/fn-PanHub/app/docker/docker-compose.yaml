@@ -4,7 +4,7 @@ services:
     container_name: panhub
     restart: unless-stopped
     ports:
-      - "3000:3000"
+      - "806:3000"
     volumes:
       # 持久化热搜 JSON 数据
       - ./data:/app/data

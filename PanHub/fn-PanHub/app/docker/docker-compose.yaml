@@ -1,6 +1,6 @@
 services:
   panhub:
-    build: .
+    image: ghcr.io/wu529778790/panhub.shenzjd.com:latest
     container_name: panhub
     restart: unless-stopped
     ports:

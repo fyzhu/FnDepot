@@ -1,0 +1,15 @@
+appname               = PanHub
+version               = 1.0.0
+display_name          = PanHub
+desc                  = 一个搜索框，搜遍全网网盘资源 —— 即搜即得、聚合去重、免费开源、零广告、轻量部署
+arch                  = x86_64
+source                = thirdparty
+maintainer            = wu529778790
+maintainer_url        = https://github.com/wu529778790
+distributor           = fyzhu
+distributor_url       = https://github.com/fyzhu
+desktop_uidir         = ui
+desktop_applaunchname = PanHub.Application
+
+service_port          = 3000
+checkport             = true

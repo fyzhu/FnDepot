@@ -1,0 +1,13 @@
+{
+    ".url": {
+        "PanHub.Application": {
+            "title": "PanHub",
+            "icon": "images/icon_{0}.png",
+            "type": "url",
+            "protocol": "http",
+            "port": "3000",
+            "url": "/",
+            "allUsers": false
+        }
+    }
+}

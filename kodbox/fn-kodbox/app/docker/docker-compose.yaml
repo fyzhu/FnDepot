@@ -1,7 +1,7 @@
 services:
   kodbox:
     image: kodcloud/kodbox:latest
-    container_name: kodbox
+    container_name: fn-kodbox
     restart: always
     ports:
       - "807:80"       # 网页访问端口：http://路由器IP:807

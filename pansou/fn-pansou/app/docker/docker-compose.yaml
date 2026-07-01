@@ -1,6 +1,6 @@
 services:
   pansou:
-    image: ghcr.io/fish2018/pansou-web:latest
+    image: lisazhu/pansou-web:latest
     container_name: pansou-app
     labels:
       - "autoheal=true"  # 标记此容器允许被autoheal重启

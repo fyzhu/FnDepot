@@ -4,7 +4,7 @@
         "projects":
         [
             {
-                "name": "pansou",
+                "name": "panhub",
                 "path": "docker"
             }
         ]
@@ -14,22 +14,22 @@
         "shares":
         [
             {
-                "name": "pansou",
+                "name": "panhub",
                 "permission":
                 {
                     "rw":
                     [
-                        "docker-pansou"
+                        "docker-panhub"
                     ]
                 }
             },
             {
-                "name": "pansou/data",
+                "name": "panhub/data",
                 "permission":
                 {
                     "rw":
                     [
-                        "docker-pansou"
+                        "docker-panhub"
                     ]
                 }
             }
